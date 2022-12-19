@@ -11,7 +11,6 @@
                 <a class="nav-link" href="mailto:cxnshx@gmail.com">Contact</a>
             </div>
         </nav>
-
     </header>
 </template>
 
